@@ -1,0 +1,2 @@
+# waikiki
+For beginner surfers
