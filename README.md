@@ -1,2 +1,2 @@
 # waikiki
-For beginner surfers
+A simple web browser for beginner surfers.
